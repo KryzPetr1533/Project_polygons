@@ -1,0 +1,6 @@
+G:\Мой диск\Проект Многоугольники\Project Shape\All_Shapes\bin\Release\All_Shapes.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\All_Shapes\bin\Release\All_Shapes.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\All_Shapes\obj\Release\All_Shapes.csproj.AssemblyReference.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\All_Shapes\obj\Release\All_Shapes.csproj.CoreCompileInputs.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\All_Shapes\obj\Release\All_Shapes.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\All_Shapes\obj\Release\All_Shapes.pdb

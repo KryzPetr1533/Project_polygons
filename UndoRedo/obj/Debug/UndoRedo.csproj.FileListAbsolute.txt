@@ -1,0 +1,18 @@
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\bin\Debug\UndoRedo.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\bin\Debug\UndoRedo.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\bin\Debug\All_Shapes.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\bin\Debug\All_Shapes.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\obj\Debug\UndoRedo.csprojAssemblyReference.cache
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\obj\Debug\UndoRedo.csproj.CoreCompileInputs.cache
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\obj\Debug\UndoRedo.csproj.CopyComplete
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\obj\Debug\UndoRedo.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\UndoRedo\obj\Debug\UndoRedo.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\bin\Debug\UndoRedo.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\bin\Debug\UndoRedo.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\bin\Debug\All_Shapes.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\bin\Debug\All_Shapes.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\obj\Debug\UndoRedo.csproj.AssemblyReference.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\obj\Debug\UndoRedo.csproj.CoreCompileInputs.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\obj\Debug\UndoRedo.csproj.CopyComplete
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\obj\Debug\UndoRedo.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\UndoRedo\obj\Debug\UndoRedo.pdb

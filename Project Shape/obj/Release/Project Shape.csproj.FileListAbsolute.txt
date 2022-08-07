@@ -1,0 +1,40 @@
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\Project Shape.exe.config
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\Project Shape.exe
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\Project Shape.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\All_Shapes.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\Run.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\Shell_Build.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\UndoRedo.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\All_Shapes.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\Run.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\Shell_Build.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Release\UndoRedo.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project Shape.csproj.AssemblyReference.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project_Shape.Form1.resources
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project_Shape.FormRadius.resources
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project_Shape.Properties.Resources.resources
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project Shape.csproj.GenerateResource.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project Shape.csproj.CoreCompileInputs.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project Shape.csproj.CopyComplete
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project Shape.exe
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Release\Project Shape.pdb
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\Project Shape.exe.config
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\Project Shape.exe
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\Project Shape.pdb
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\All_Shapes.dll
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\Run.dll
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\Shell_Build.dll
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\UndoRedo.dll
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\All_Shapes.pdb
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\Run.pdb
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\Shell_Build.pdb
+C:\Users\petra\Repository\Project_polygons\Project Shape\bin\Release\UndoRedo.pdb
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project Shape.csproj.AssemblyReference.cache
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project_Shape.Form1.resources
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project_Shape.FormRadius.resources
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project_Shape.Properties.Resources.resources
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project Shape.csproj.GenerateResource.cache
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project Shape.csproj.CoreCompileInputs.cache
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project Shape.csproj.CopyComplete
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project Shape.exe
+C:\Users\petra\Repository\Project_polygons\Project Shape\obj\Release\Project Shape.pdb

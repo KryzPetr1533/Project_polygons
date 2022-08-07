@@ -1,0 +1,18 @@
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\bin\Debug\Shell_Build.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\bin\Debug\Shell_Build.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\bin\Debug\All_Shapes.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\bin\Debug\All_Shapes.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\obj\Debug\Shell_Build.csprojAssemblyReference.cache
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\obj\Debug\Shell_Build.csproj.CoreCompileInputs.cache
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\obj\Debug\Shell_Build.csproj.CopyComplete
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\obj\Debug\Shell_Build.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Shell_Build\obj\Debug\Shell_Build.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\bin\Debug\Shell_Build.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\bin\Debug\Shell_Build.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\bin\Debug\All_Shapes.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\bin\Debug\All_Shapes.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\obj\Debug\Shell_Build.csproj.AssemblyReference.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\obj\Debug\Shell_Build.csproj.CoreCompileInputs.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\obj\Debug\Shell_Build.csproj.CopyComplete
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\obj\Debug\Shell_Build.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Shell_Build\obj\Debug\Shell_Build.pdb

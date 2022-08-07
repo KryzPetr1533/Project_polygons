@@ -1,0 +1,50 @@
+Z:\ТПП\Project Shape\Project Shape\bin\Debug\Project Shape.exe.config
+Z:\ТПП\Project Shape\Project Shape\bin\Debug\Project Shape.exe
+Z:\ТПП\Project Shape\Project Shape\bin\Debug\Project Shape.pdb
+Z:\ТПП\Project Shape\Project Shape\obj\Debug\Project Shape.csprojAssemblyReference.cache
+Z:\ТПП\Project Shape\Project Shape\obj\Debug\Project_Shape.Form1.resources
+Z:\ТПП\Project Shape\Project Shape\obj\Debug\Project_Shape.Properties.Resources.resources
+Z:\ТПП\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.GenerateResource.cache
+Z:\ТПП\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.CoreCompileInputs.cache
+Z:\ТПП\Project Shape\Project Shape\obj\Debug\Project Shape.exe
+Z:\ТПП\Project Shape\Project Shape\obj\Debug\Project Shape.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\Project Shape.exe.config
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\Project Shape.exe
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\Project Shape.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project Shape.csprojAssemblyReference.cache
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project_Shape.Form1.resources
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project_Shape.Properties.Resources.resources
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.GenerateResource.cache
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.CoreCompileInputs.cache
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project Shape.exe
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project Shape.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project_Shape.FormRadius.resources
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\All_Shapes.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\All_Shapes.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.CopyComplete
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\UndoRedo.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\UndoRedo.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\Shell_Build.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\Shell_Build.pdb
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\Run.dll
+C:\Users\PetrAssassin\Documents\Пётр\ДЗ\Project Shape\Project Shape\bin\Debug\Run.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\Project Shape.exe.config
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\Project Shape.exe
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\Project Shape.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\All_Shapes.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\Run.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\Shell_Build.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\UndoRedo.dll
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\All_Shapes.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\Run.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\Shell_Build.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\bin\Debug\UndoRedo.pdb
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.AssemblyReference.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project_Shape.Form1.resources
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project_Shape.FormRadius.resources
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project_Shape.Properties.Resources.resources
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.GenerateResource.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.CoreCompileInputs.cache
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project Shape.csproj.CopyComplete
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project Shape.exe
+G:\Мой диск\Проект Многоугольники\Project Shape\Project Shape\obj\Debug\Project Shape.pdb
