@@ -23,3 +23,8 @@ By clicking on "Файл" user can see 3 options:
 By clicking on "Выбор вершины" user can change the shape of the next figure. "Треугольник" switches shape to triangle, "Круг" to circle and "Квадрат" to square.
 Switching the shape does not affect already created objects.
 By clicking on "Опции" user can change color and size of the figures. Option "Изменение радиуса" is for the size and "Изменение цвета" is for the color.
+##### Buttons
+There are 4 buttons below the menu bar.
+Pressing the green button makes all figures "shake", they slitly change position in random direction per second. To stop that user has to press the red button.
+By clicking left arrow button user can undo the last action. By clicking right arrow button user can redo the undone action.
+Undo/redo is implemented by saving changes, not the whole form status, so it requires less memory.
